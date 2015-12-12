@@ -1,0 +1,5 @@
+AddCharsetDefault utf-8
+<IfModule dir_module>
+    DirectoryIndex index.php
+</IfModule>
+AddType application/x-httpd-php .php .htm .html 
